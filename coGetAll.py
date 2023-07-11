@@ -30,7 +30,7 @@ def getinput(domi):
     url = "https://api.apollo.io/v1/organizations/enrich"
 
     querystring = {
-           "api_key": "5YU58DcPiS8yfuqEnfPL9Q",
+           "api_key": "ON_SERVER",
            "domain": domi
     }
 
